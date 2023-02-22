@@ -10,5 +10,17 @@
       "password": ""
     },
     "TimeInterval": 1234
+  },
+  "Master2": {
+    "UserID": "User2",
+    "Slaves": 3,
+    "SlaveIDs": [2342, 2458, 2356],
+    "FirebaseConfigs": {
+      "API_KEY": "",
+      "URL": "",
+      "username": "",
+      "password": ""
+    },
+    "TimeInterval": 1234
   }
 }
