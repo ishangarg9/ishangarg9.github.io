@@ -1,1 +1,14 @@
-
+{
+  "Master1": {
+    "UserID": "User1",
+    "Slaves": 3,
+    "SlaveIDs": [2344, 2456, 235],
+    "FirebaseConfigs": {
+      "API_KEY": "",
+      "URL": "",
+      "username": "",
+      "password": ""
+    },
+    "TimeInterval": 1234
+  }
+}
