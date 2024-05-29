@@ -1,26 +1,8 @@
 {
-  "Master1": {
-    "UserID": "Ishan",
-    "Slaves": 3,
-    "SlaveIDs": [2344, 2456, 2356],
-    "FirebaseConfigs": {
-      "API_KEY": "",
-      "URL": "",
-      "username": "",
-      "password": ""
-    },
-    "TimeInterval": 1234
+  "freq": "3",
+  "info": {
+      "x1": "RC",
+      "x2": "WE"
   },
-  "Master2": {
-    "UserID": "Anuj",
-    "Slaves": 2,
-    "SlaveIDs": [2342, 2458],
-    "FirebaseConfigs": {
-      "API_KEY": "",
-      "URL": "",
-      "username": "",
-      "password": ""
-    },
-    "TimeInterval": 1234
-  }
+  "no": 2
 }
